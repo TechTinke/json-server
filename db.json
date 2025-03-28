@@ -1,0 +1,25 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Oscar Maingi",
+      "email": "maingioscar@gmail.com",
+      "phone": "0734567890",
+      "county": "Nairobi"
+    },
+    {
+      "id": 2,
+      "name": "Praise Victoria",
+      "email": "praisevictoria@gmail.com",
+      "phone": "0787654321",
+      "county": "Nairobi"
+    },
+    {
+      "id": 3,
+      "name": "Sharllyrose Wanjala",
+      "email": "sharllyrosewanjala@gmail.com",
+      "phone": "0745678901",
+      "county": "Mombasa"
+    }
+  ]
+}
